@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Specialhealthy-Gym/static/css/main.e27f79a2.css",
+    "main.js": "/Specialhealthy-Gym/static/js/main.52203cc5.js",
+    "static/media/gallery-3.jpg": "/Specialhealthy-Gym/static/media/gallery-3.bbd9f5f82a940a6d6064.jpg",
+    "static/media/gallery-4.jpg": "/Specialhealthy-Gym/static/media/gallery-4.2062254bc2ab38728631.jpg",
+    "static/media/hero.jpg": "/Specialhealthy-Gym/static/media/hero.38f0e6077eb73779e224.jpg",
+    "static/media/gallery-6.jpg": "/Specialhealthy-Gym/static/media/gallery-6.ac7def94da578fd21225.jpg",
+    "static/media/gallery-1.jpg": "/Specialhealthy-Gym/static/media/gallery-1.e08042cb651bb45d15b2.jpg",
+    "static/media/gallery-5.jpg": "/Specialhealthy-Gym/static/media/gallery-5.4b7d385e388a1316bd50.jpg",
+    "static/media/gallery-2.jpg": "/Specialhealthy-Gym/static/media/gallery-2.e066fe2d95c7706464df.jpg",
+    "index.html": "/Specialhealthy-Gym/index.html",
+    "main.e27f79a2.css.map": "/Specialhealthy-Gym/static/css/main.e27f79a2.css.map",
+    "main.52203cc5.js.map": "/Specialhealthy-Gym/static/js/main.52203cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27f79a2.css",
+    "static/js/main.52203cc5.js"
+  ]
+}
